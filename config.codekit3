@@ -87,6 +87,16 @@
 		"oS": 0,
 		"uL": 1
 		},
+	"\/app\/assets\/stylesheets\/screen-min.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/app\/assets\/stylesheets\/screen-min-min.css",
+		"oF": 0,
+		"oS": 0
+		},
 	"\/app\/assets\/stylesheets\/screen.css": {
 		"aP": 1,
 		"bl": 0,
@@ -173,6 +183,12 @@
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/app\/views\/articles\/index.html.erb",
+		"oF": 0
+		},
+	"\/app\/views\/articles\/new.html.erb": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/app\/views\/articles\/new.html.erb",
 		"oF": 0
 		},
 	"\/app\/views\/articles\/show.html.erb": {
