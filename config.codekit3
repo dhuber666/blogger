@@ -179,6 +179,18 @@
 		"oAP": "\/app\/models\/concerns\/.keep",
 		"oF": 0
 		},
+	"\/app\/views\/articles\/_form.html.erb": {
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/app\/views\/articles\/_form.html.erb",
+		"oF": 0
+		},
+	"\/app\/views\/articles\/edit.html.erb": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/app\/views\/articles\/edit.html.erb",
+		"oF": 0
+		},
 	"\/app\/views\/articles\/index.html.erb": {
 		"ft": 8192,
 		"oA": 2,
